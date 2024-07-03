@@ -3,6 +3,8 @@
 ## Overview
 `vue-bpmn-modeler` is a Vue.js-based application for modeling BPMN (Business Process Model and Notation) diagrams. It leverages several BPMN libraries and Vue plugins to provide a comprehensive modeling experience.
 
+![alt text](https://github.com/irshadmb/vue-bpmn-modeler/blob/main/public/Screenshot.png?raw=true)
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
